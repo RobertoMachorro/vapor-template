@@ -2,7 +2,7 @@
 import PackageDescription
 
 let package = Package(
-	name: "CardsTracker",
+	name: "VaporTemplate",
 	platforms: [
 		.macOS(.v10_15)
 	],
